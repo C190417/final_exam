@@ -47,5 +47,6 @@
 <footer>
 	<div id="copyright">&copy; 2021 The Applied Course of Web System Development.</div>
 </footer>
+
 </body>
 </html>
